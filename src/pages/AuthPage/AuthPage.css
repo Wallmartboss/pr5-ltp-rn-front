@@ -1,0 +1,14 @@
+.auth-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding: 0 20px;
+  height: 100vh;
+  background: linear-gradient(
+    180deg,
+    rgba(196, 196, 196, 0),
+    var(--main-color)
+  );
+}

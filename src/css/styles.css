@@ -10,6 +10,7 @@
   --medium-priority-color: #e09cb5;
   --high-priority-color: #bedbb0;
   --no-priopity-color: rgba(22, 22, 22, 0.4);
+  --auth-form-bg-color: #151515;
 }
 
 body {
@@ -24,6 +25,7 @@ body {
   min-width: 320px;
 
   --input-stroke-color: rgba(190, 219, 176, 0.4);
+  --input-bg-color: #1f1f1f;
   --icon-inprogress-color: var(--main-color);
   --icon-done-color: var(--black);
 
